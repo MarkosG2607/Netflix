@@ -1,0 +1,101 @@
+dsf;C:\Users\lenovo\Documents\New Folder\Sexflix\src\imagenes\peli8.jpg;2004;100;c;ingkea;sad saw as;buena;comedia;9.0
+Serie 1;imagenes/peli7.jpg;2011;2;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 1;Ciencia Ficción;2.0
+Serie 2;imagenes/peli7.jpg;2012;3;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 2;Comedia;3.0
+Serie 3;imagenes/peli7.jpg;2013;4;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 3;Terror;4.0
+Serie 4;imagenes/peli7.jpg;2014;5;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 4;Drama;5.0
+Serie 5;imagenes/peli7.jpg;2015;6;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 5;Ciencia Ficción;1.0
+Serie 6;imagenes/peli7.jpg;2016;7;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 6;Comedia;2.0
+Serie 7;imagenes/peli7.jpg;2017;1;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 7;Terror;3.0
+Serie 8;imagenes/peli7.jpg;2018;2;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 8;Drama;4.0
+Serie 9;imagenes/peli7.jpg;2019;3;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 9;Ciencia Ficción;5.0
+Serie 10;imagenes/peli7.jpg;2020;4;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 10;Comedia;1.0
+Serie 11;imagenes/peli7.jpg;2021;5;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 11;Terror;2.0
+Serie 12;imagenes/peli7.jpg;2022;6;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 12;Drama;3.0
+Serie 13;imagenes/peli7.jpg;2023;7;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 13;Ciencia Ficción;4.0
+Serie 14;imagenes/peli7.jpg;2024;1;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 14;Comedia;5.0
+Serie 15;imagenes/peli7.jpg;2010;2;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 15;Terror;1.0
+Serie 16;imagenes/peli7.jpg;2011;3;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 16;Drama;2.0
+Serie 17;imagenes/peli7.jpg;2012;4;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 17;Ciencia Ficción;3.0
+Serie 18;imagenes/peli7.jpg;2013;5;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 18;Comedia;4.0
+Serie 19;imagenes/peli7.jpg;2014;6;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 19;Terror;5.0
+Serie 20;imagenes/peli7.jpg;2015;7;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 20;Drama;1.0
+Serie 21;imagenes/peli7.jpg;2016;1;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 21;Ciencia Ficción;2.0
+Serie 22;imagenes/peli7.jpg;2017;2;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 22;Comedia;3.0
+Serie 23;imagenes/peli7.jpg;2018;3;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 23;Terror;4.0
+Serie 24;imagenes/peli7.jpg;2019;4;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 24;Drama;5.0
+Serie 25;imagenes/peli7.jpg;2020;5;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 25;Ciencia Ficción;1.0
+Serie 26;imagenes/peli7.jpg;2021;6;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 26;Comedia;2.0
+Serie 27;imagenes/peli7.jpg;2022;7;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 27;Terror;3.0
+Serie 28;imagenes/peli7.jpg;2023;1;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 28;Drama;4.0
+Serie 29;imagenes/peli7.jpg;2024;2;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 29;Ciencia Ficción;5.0
+Serie 30;imagenes/peli7.jpg;2010;3;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 30;Comedia;1.0
+Serie 31;imagenes/peli7.jpg;2011;4;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 31;Terror;2.0
+Serie 32;imagenes/peli7.jpg;2012;5;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 32;Drama;3.0
+Serie 33;imagenes/peli7.jpg;2013;6;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 33;Ciencia Ficción;4.0
+Serie 34;imagenes/peli7.jpg;2014;7;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 34;Comedia;5.0
+Serie 35;imagenes/peli7.jpg;2015;1;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 35;Terror;1.0
+Serie 36;imagenes/peli7.jpg;2016;2;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 36;Drama;2.0
+Serie 37;imagenes/peli7.jpg;2017;3;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 37;Ciencia Ficción;3.0
+Serie 38;imagenes/peli7.jpg;2018;4;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 38;Comedia;4.0
+Serie 39;imagenes/peli7.jpg;2019;5;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 39;Terror;5.0
+Serie 40;imagenes/peli7.jpg;2020;6;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 40;Drama;1.0
+Serie 41;imagenes/peli7.jpg;2021;7;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 41;Ciencia Ficción;2.0
+Serie 42;imagenes/peli7.jpg;2022;1;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 42;Comedia;3.0
+Serie 43;imagenes/peli7.jpg;2023;2;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 43;Terror;4.0
+Serie 44;imagenes/peli7.jpg;2024;3;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 44;Drama;5.0
+Serie 45;imagenes/peli7.jpg;2010;4;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 45;Ciencia Ficción;1.0
+Serie 46;imagenes/peli7.jpg;2011;5;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 46;Comedia;2.0
+Serie 47;imagenes/peli7.jpg;2012;6;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 47;Terror;3.0
+Serie 48;imagenes/peli7.jpg;2013;7;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 48;Drama;4.0
+Serie 49;imagenes/peli7.jpg;2014;1;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 49;Ciencia Ficción;5.0
+Serie 50;imagenes/peli7.jpg;2015;2;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 50;Comedia;1.0
+Serie 51;imagenes/peli7.jpg;2016;3;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 51;Terror;2.0
+Serie 52;imagenes/peli7.jpg;2017;4;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 52;Drama;3.0
+Serie 53;imagenes/peli7.jpg;2018;5;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 53;Ciencia Ficción;4.0
+Serie 54;imagenes/peli7.jpg;2019;6;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 54;Comedia;5.0
+Serie 55;imagenes/peli7.jpg;2020;7;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 55;Terror;1.0
+Serie 56;imagenes/peli7.jpg;2021;1;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 56;Drama;2.0
+Serie 57;imagenes/peli7.jpg;2022;2;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 57;Ciencia Ficción;3.0
+Serie 58;imagenes/peli7.jpg;2023;3;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 58;Comedia;4.0
+Serie 59;imagenes/peli7.jpg;2024;4;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 59;Terror;5.0
+Serie 60;imagenes/peli7.jpg;2010;5;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 60;Drama;1.0
+Serie 61;imagenes/peli7.jpg;2011;6;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 61;Ciencia Ficción;2.0
+Serie 62;imagenes/peli7.jpg;2012;7;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 62;Comedia;3.0
+Serie 63;imagenes/peli7.jpg;2013;1;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 63;Terror;4.0
+Serie 64;imagenes/peli7.jpg;2014;2;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 64;Drama;5.0
+Serie 65;imagenes/peli7.jpg;2015;3;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 65;Ciencia Ficción;1.0
+Serie 66;imagenes/peli7.jpg;2016;4;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 66;Comedia;2.0
+Serie 67;imagenes/peli7.jpg;2017;5;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 67;Terror;3.0
+Serie 68;imagenes/peli7.jpg;2018;6;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 68;Drama;4.0
+Serie 69;imagenes/peli7.jpg;2019;7;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 69;Ciencia Ficción;5.0
+Serie 70;imagenes/peli7.jpg;2020;1;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 70;Comedia;1.0
+Serie 71;imagenes/peli7.jpg;2021;2;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 71;Terror;2.0
+Serie 72;imagenes/peli7.jpg;2022;3;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 72;Drama;3.0
+Serie 73;imagenes/peli7.jpg;2023;4;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 73;Ciencia Ficción;4.0
+Serie 74;imagenes/peli7.jpg;2024;5;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 74;Comedia;5.0
+Serie 75;imagenes/peli7.jpg;2010;6;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 75;Terror;1.0
+Serie 76;imagenes/peli7.jpg;2011;7;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 76;Drama;2.0
+Serie 77;imagenes/peli7.jpg;2012;1;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 77;Ciencia Ficción;3.0
+Serie 78;imagenes/peli7.jpg;2013;2;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 78;Comedia;4.0
+Serie 79;imagenes/peli7.jpg;2014;3;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 79;Terror;5.0
+Serie 80;imagenes/peli7.jpg;2015;4;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 80;Drama;1.0
+Serie 81;imagenes/peli7.jpg;2016;5;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 81;Ciencia Ficción;2.0
+Serie 82;imagenes/peli7.jpg;2017;6;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 82;Comedia;3.0
+Serie 83;imagenes/peli7.jpg;2018;7;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 83;Terror;4.0
+Serie 84;imagenes/peli7.jpg;2019;1;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 84;Drama;5.0
+Serie 85;imagenes/peli7.jpg;2020;2;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 85;Ciencia Ficción;1.0
+Serie 86;imagenes/peli7.jpg;2021;3;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 86;Comedia;2.0
+Serie 87;imagenes/peli7.jpg;2022;4;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 87;Terror;3.0
+Serie 88;imagenes/peli7.jpg;2023;5;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 88;Drama;4.0
+Serie 89;imagenes/peli7.jpg;2024;6;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 89;Ciencia Ficción;5.0
+Serie 90;imagenes/peli7.jpg;2010;7;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 90;Comedia;1.0
+Serie 91;imagenes/peli7.jpg;2011;1;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 91;Terror;2.0
+Serie 92;imagenes/peli7.jpg;2012;2;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 92;Drama;3.0
+Serie 93;imagenes/peli7.jpg;2013;3;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 93;Ciencia Ficción;4.0
+Serie 94;imagenes/peli7.jpg;2014;4;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 94;Comedia;5.0
+Serie 95;imagenes/peli7.jpg;2015;5;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 95;Terror;1.0
+Serie 96;imagenes/peli7.jpg;2016;6;TV-MA;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 96;Drama;2.0
+Serie 97;imagenes/peli7.jpg;2017;7;TV-14;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 97;Ciencia Ficción;3.0
+Serie 98;imagenes/peli7.jpg;2018;1;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 98;Comedia;4.0
+Serie 99;imagenes/peli7.jpg;2019;2;TV-14;Español;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 99;Terror;5.0
+Serie 100;imagenes/peli7.jpg;2020;3;TV-MA;Inglés;Actor X, Actor Y, Actor Z;Sinopsis ficticia de la serie número 100;Drama;1.0
